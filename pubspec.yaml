@@ -1,6 +1,6 @@
 name: openrouter
 description: A Flutter plugin for the OpenRouter API - unified access to hundreds of AI models including OpenAI, Anthropic, Google, and more.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/JAICHANGPARK/openrouter-dart
 documentation: https://openrouter.ai/docs
 repository: https://github.com/JAICHANGPARK/openrouter-dart
