@@ -34,7 +34,7 @@ topics:
   - ai
   - llm
   - openai
-  - claude
+  - openrouter
   - gemini
 
 # Platforms this package supports
