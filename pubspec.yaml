@@ -34,11 +34,8 @@ topics:
   - ai
   - llm
   - openai
-  - chatgpt
   - claude
   - gemini
-  - machine-learning
-  - embeddings
 
 # Platforms this package supports
 platforms:
